@@ -1,0 +1,41 @@
+.menu{
+  display: flex;
+  justify-content: space-between;
+  background-color:black;
+  padding: 15px;
+  font-size: 30px;
+  font-family: sans-serif;
+  font-weight: 300;
+  color: white;
+}
+.menu a {
+  margin-left: 270px;
+  margin-right: 260px;
+}
+body{
+  margin: 0px;
+  background-color:  gainsboro;
+  
+}
+.grid {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 20px;
+  font-family: sans-serif;
+  
+}
+.grid img{
+  border: 2px solid black;
+  border-radius: 50px;
+}
+.languages {
+  
+  border-radius: 20px;
+  background-color: white;
+  padding: 28px;
+  margin: 25px;
+  margin-right: 20px;
+  width: 190px;
+  font-family: sans-serif;
+  
+}
